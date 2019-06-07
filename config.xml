@@ -1,0 +1,38 @@
+01
+<?xml version="1.0" encoding="UTF-8" ?>
+02
+<widget xmlns   = "http://www.w3.org/ns/widgets"
+03
+    xmlns:gap   = "http://phonegap.com/ns/1.0"
+04
+    id          = "com.kruchian.photohuntgame"
+05
+    versionCode = "10"
+06
+    version     = "1.0.0" >
+07
+ 
+08
+<!-- versionCode is optional and ios only -->
+09
+ 
+10
+  <name>Photohunt Game</name>
+11
+ 
+12
+  <description>
+13
+      Photohunt Game.
+14
+  </description>
+15
+ 
+16
+  <author href="https://kruchian.com" email="xxxx@sts.ac.th">
+17
+      kruchian p.
+18
+  </author>
+19
+</widget>
